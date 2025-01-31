@@ -3,7 +3,7 @@
 
 <p align="center">
   - 🔭 I’m currently working on <strong>JACKERZ</strong><br>
-  - 🌱 I’m currently learning <strong>C#</strong><br>
+  - 🌱 I’m currently learning <strong>Angular</strong><br>
   - 💬 Ask me about <strong>React, Javascript,Laravel</strong><br>
   - 📫 How to reach me: <strong>hmzaakram295@gmail.com</strong>
 </p>
