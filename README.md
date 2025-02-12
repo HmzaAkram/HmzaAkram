@@ -19,7 +19,7 @@
   ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-333333?style=flat&logo=laravel)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
