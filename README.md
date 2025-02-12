@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; Studying Software Engineering at Aptech (Metro Star Gate)
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -33,7 +33,7 @@
 <p>
 <a href="https://github.com/HmzaAkram">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HmzaAkram&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HmzaAkram&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
