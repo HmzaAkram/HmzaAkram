@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/hamza-akram-6354a1350"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
